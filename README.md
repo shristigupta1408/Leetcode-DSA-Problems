@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0152-maximum-product-subarray](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 ## Two Pointers
