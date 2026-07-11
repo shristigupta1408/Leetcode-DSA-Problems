@@ -1,5 +1,4 @@
 class Solution {
-    // nums[i] * maxProduct[nums[i+1:]]
     public int maxProduct(int[] nums) {
         int maxProduct = 1;
         int minProduct = 1;
