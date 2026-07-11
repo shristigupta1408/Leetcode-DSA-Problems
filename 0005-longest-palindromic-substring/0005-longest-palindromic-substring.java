@@ -1,4 +1,8 @@
 class Solution {
+    int startingIndex = 0;
+    int lengthLongestPalindrome = 0;
+    String givenString;
+
     public String longestPalindrome(String s) {
         // Would need a 2D DP array to track indices 
         // if dp[i][j] = true, then s[i..j] is a palindrome
@@ -14,36 +18,28 @@ class Solution {
 
         int leftPointer;
         int rightPointer;
-        int startingIndex = 0;
-        int lengthLongestPalindrome = 0;
-
-        // if (leftPointer < 0 || rightPointer >= s.size()) {
-        //     return s.substring(startingIndex, startingIndex + lengthLongestPalindrome);
-        // }
+        givenString = s;
 
         for (int i = 0; i < s.length(); i++) {
             // Odd numbered Case
             leftPointer = i;
             rightPointer = i;
 
-            while (leftPointer >= 0 && rightPointer < s.length() 
-                && s.charAt(leftPointer) == s.charAt(rightPointer)) {
-
-                    if (rightPointer - leftPointer + 1 > lengthLongestPalindrome) {
-                        lengthLongestPalindrome = rightPointer - leftPointer + 1;
-                        startingIndex = leftPointer;
-                    }
-
-                leftPointer--;
-                rightPointer++;
-            }
+            findLongestPalindromicSubstring(leftPointer, rightPointer);
 
             // Even Numbered Case 
             leftPointer = i;
             rightPointer = i+1;
 
-            while (leftPointer >= 0 && rightPointer < s.length() 
-                && s.charAt(leftPointer) == s.charAt(rightPointer)) {
+            findLongestPalindromicSubstring(leftPointer, rightPointer);
+        }
+
+        return s.substring(startingIndex, startingIndex + lengthLongestPalindrome);
+    }
+
+    private void findLongestPalindromicSubstring(int leftPointer, int rightPointer) {
+        while (leftPointer >= 0 && rightPointer < givenString.length() 
+                && givenString.charAt(leftPointer) == givenString.charAt(rightPointer)) {
 
                     if (rightPointer - leftPointer + 1 > lengthLongestPalindrome) {
                         lengthLongestPalindrome = rightPointer - leftPointer + 1;
@@ -53,8 +49,5 @@ class Solution {
                 leftPointer--;
                 rightPointer++;
             }
-        }
-
-        return s.substring(startingIndex, startingIndex + lengthLongestPalindrome);
     }
 }
