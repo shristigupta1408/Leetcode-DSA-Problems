@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0152-maximum-product-subarray) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
