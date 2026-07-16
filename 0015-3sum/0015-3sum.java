@@ -19,8 +19,12 @@ class Solution {
             } else if (sum > 0) {
                 hi--;
             } else {
-                res.add(Arrays.asList(nums[i], nums[lo++], nums[hi--]));
-                while (lo < hi && nums[lo] == nums[lo - 1]) lo++;
+                res.add(Arrays.asList(nums[i], nums[lo], nums[hi]));
+                lo++;
+                hi--;
+                while (lo < hi && nums[lo] == nums[lo - 1]) {
+                    lo++;
+                }
             }
         }
     }
