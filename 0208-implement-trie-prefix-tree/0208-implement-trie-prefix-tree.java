@@ -1,18 +1,9 @@
-class TrieNode {
-
-    // R links to node children
-    public TrieNode[] children;
-
-    private final int R = 26;
-
-    public boolean isLeaf;
-
-    public TrieNode() {
-        children = new TrieNode[R];
-    }
-}
-
 class Trie {
+    private static class TrieNode {
+        TrieNode[] children = new TrieNode[26];
+        boolean isLeaf;
+    }
+
     TrieNode root;
 
     public Trie() {
