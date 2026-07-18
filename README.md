@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0455-assign-cookies) |
+| [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
 | [0875-koko-eating-bananas](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
 ## Union-Find
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0253-meeting-rooms-ii) |
+## Counting
+|  |
+| ------- |
+| [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
 <!---LeetCode Topics End-->
