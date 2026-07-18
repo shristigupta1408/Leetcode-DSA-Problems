@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0875-koko-eating-bananas) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
 ## Greedy
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
@@ -104,5 +107,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0875-koko-eating-bananas](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0875-koko-eating-bananas) |
+## Matrix
+|  |
+| ------- |
+| [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 <!---LeetCode Topics End-->
