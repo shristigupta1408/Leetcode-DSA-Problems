@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0253-meeting-rooms-ii](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0253-meeting-rooms-ii) |
 | [0455-assign-cookies](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0455-assign-cookies) |
 ## String
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0253-meeting-rooms-ii](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0253-meeting-rooms-ii) |
 | [0455-assign-cookies](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
