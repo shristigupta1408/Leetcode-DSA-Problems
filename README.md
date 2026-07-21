@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 ## Prefix Sum
 |  |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
