@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0359-logger-rate-limiter](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0359-logger-rate-limiter) |
 | [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Union-Find
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0359-logger-rate-limiter](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0359-logger-rate-limiter) |
 ## Trie
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [0359-logger-rate-limiter](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0359-logger-rate-limiter) |
 <!---LeetCode Topics End-->
