@@ -1,7 +1,6 @@
 class Solution {
     public int minimumPushes(String word) {
-        char[] wordArray = word.toCharArray();
-        int n = wordArray.length;
+        int n = word.length();
 
         if (n <= 8) {
             return n;
