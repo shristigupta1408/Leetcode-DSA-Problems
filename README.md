@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
 | [0875-koko-eating-bananas](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0875-koko-eating-bananas) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [2013-detect-squares](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2013-detect-squares) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0253-meeting-rooms-ii) |
 | [0455-assign-cookies](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 ## Stack
 |  |
 | ------- |
