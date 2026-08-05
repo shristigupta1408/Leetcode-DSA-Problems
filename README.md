@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
 | [0875-koko-eating-bananas](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
+| [1146-snapshot-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1146-snapshot-array) |
 | [2013-detect-squares](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2013-detect-squares) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0359-logger-rate-limiter) |
 | [0560-subarray-sum-equals-k](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
+| [1146-snapshot-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1146-snapshot-array) |
 | [2013-detect-squares](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2013-detect-squares) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Union-Find
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0875-koko-eating-bananas](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0875-koko-eating-bananas) |
+| [1146-snapshot-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1146-snapshot-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0359-logger-rate-limiter](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0359-logger-rate-limiter) |
+| [1146-snapshot-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1146-snapshot-array) |
 | [2013-detect-squares](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2013-detect-squares) |
 ## Trie
 |  |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
