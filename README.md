@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 ## Simulation
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
