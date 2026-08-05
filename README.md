@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [2013-detect-squares](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2013-detect-squares) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0253-meeting-rooms-ii) |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -145,11 +149,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0875-koko-eating-bananas](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0875-koko-eating-bananas) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
