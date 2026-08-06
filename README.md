@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0253-meeting-rooms-ii](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0253-meeting-rooms-ii](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0253-meeting-rooms-ii) |
+| [0295-find-median-from-data-stream](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0359-logger-rate-limiter) |
 | [1146-snapshot-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1146-snapshot-array) |
 | [2013-detect-squares](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2013-detect-squares) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0359-logger-rate-limiter) |
 | [2013-detect-squares](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2013-detect-squares) |
 ## Math
