@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0359-logger-rate-limiter](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0359-logger-rate-limiter) |
 | [0560-subarray-sum-equals-k](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0359-logger-rate-limiter](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0359-logger-rate-limiter) |
 | [1146-snapshot-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1146-snapshot-array) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-snapshot-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1146-snapshot-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
