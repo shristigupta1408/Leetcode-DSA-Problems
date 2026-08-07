@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
+| [0366-find-leaves-of-binary-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0366-find-leaves-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
@@ -222,4 +223,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0146-lru-cache) |
+## Tree
+|  |
+| ------- |
+| [0366-find-leaves-of-binary-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0366-find-leaves-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0366-find-leaves-of-binary-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0366-find-leaves-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0366-find-leaves-of-binary-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0366-find-leaves-of-binary-tree) |
 <!---LeetCode Topics End-->
