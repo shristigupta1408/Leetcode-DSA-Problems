@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0055-jump-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
