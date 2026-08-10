@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0394-decode-string](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0394-decode-string) |
 | [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0394-decode-string](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0203-remove-linked-list-elements) |
+| [0394-decode-string](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
