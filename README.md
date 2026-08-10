@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [1510-stone-game-iv](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1510-stone-game-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1510-stone-game-iv](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Persistent Data Structure
 |  |
@@ -263,4 +265,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
