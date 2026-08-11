@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
 | [0253-meeting-rooms-ii](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0253-meeting-rooms-ii) |
+| [0269-alien-dictionary](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0269-alien-dictionary) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0269-alien-dictionary](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0269-alien-dictionary) |
 | [0394-decode-string](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0394-decode-string) |
 | [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0269-alien-dictionary](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0269-alien-dictionary) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
@@ -109,12 +112,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0269-alien-dictionary](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0269-alien-dictionary) |
 | [0302-smallest-rectangle-enclosing-black-pixels](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0302-smallest-rectangle-enclosing-black-pixels) |
 | [0366-find-leaves-of-binary-tree](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0366-find-leaves-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
+| [0269-alien-dictionary](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0269-alien-dictionary) |
 | [0743-network-delay-time](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0743-network-delay-time) |
 ## Heap (Priority Queue)
 |  |
@@ -288,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1510-stone-game-iv) |
+## Topological Sort
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0269-alien-dictionary) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0269-alien-dictionary](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0269-alien-dictionary) |
 <!---LeetCode Topics End-->
