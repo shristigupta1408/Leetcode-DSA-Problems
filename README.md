@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0410-split-array-largest-sum) |
+| [1143-longest-common-subsequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1510-stone-game-iv](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1510-stone-game-iv) |
 ## Two Pointers
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0269-alien-dictionary) |
 | [0394-decode-string](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0394-decode-string) |
 | [0811-subdomain-visit-count](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0811-subdomain-visit-count) |
+| [1143-longest-common-subsequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0269-alien-dictionary](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/0269-alien-dictionary) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shristigupta1408/Leetcode-DSA-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
